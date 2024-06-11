@@ -1,8 +1,8 @@
-This app allows users to view, craete and delete blogs. It uses JSON server to manage data.
+This app allows users to view, create and delete blogs. It uses JSON server to manage data.
 
 ### HomePage
 
-![alt text](image.png)
+![alt text](image-4.png)
 
 ### Create Blog
 
